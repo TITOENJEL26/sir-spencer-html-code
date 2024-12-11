@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jebrel Miles Guya</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #5177e8;
+            color: #333;
+        }
+
+        header {
+            padding: 10px;
+            background-color: #1649e0;
+            color: white;
+            text-align: center;
+        }
+
+        section {
+            margin: 20px;
+            background: #f29c5e;
+            border-radius: 5px;
+            box-shadow: 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+
+        aside {
+            width: 300px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            margin-left: 20px;
+        }
+
+        footer {
+            background: #40f5f2;
+            text-align: center; /* Centering the footer content */
+            bottom: 0;
+            width: 100%;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Jebrel Miles Guya</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p><span style="color: blue;">Name:</span> Jebrel Miles Guya</p>
+        <p><span style="color: green;">Course:</span> Bachelor of Science in Information Technology</p>
+        <p><span style="color: red;">Hobbies:</span> Playing guitar and online games</p>
+        <img src="aaaa.img" width="600" height="300">
+    </section>
+    <footer>
+        <p>MILESKIE CODES &#169; 2024</p>
+    </footer>
+</body>
+
+</html>
